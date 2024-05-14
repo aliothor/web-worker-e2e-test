@@ -1,2 +1,7 @@
 # web-worker-e2e-test
-use playwright test web worker code
+
+使用playwright测试web worker代码
+
+## todo
+
+- 迁移到github action测试
